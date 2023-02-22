@@ -1,0 +1,8 @@
+This a file to test the word counts, to find if it works as 
+correct and as intented.Lets see if it works!.  So this 
+file has about 30 words.
+
+this second para will have more word than the friest one 
+lets see if the para counter tells us the correct word 
+count and lets see if it is correct i think it haas more 
+words in it now and.

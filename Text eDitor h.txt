@@ -1,0 +1,4 @@
+bool password
+string password
+noOflines
+dri dci

@@ -1,0 +1,20 @@
+HOME	       goto start of line
+END            goto end of line
+PG UP          previous page
+PG DOWN        Next page
+F1             Find Menu
+F2             Replace Menu
+F3             Document Statistics
+F5             For Shortcuts Screen
+F6             Find word and add prefix
+F7             Find word and add postfix
+CTRL+W         Word Game
+CTRL+S         Save any file
+CTRL+E         Save any file with a password
+CTRL+J         Merge Two Files
+CTRL+O         Open a new Document
+CTRL+U         Current cursor Word to upperCase
+CTRL+L         Current cursor word to lowerCase
+ESC            Exit a document
+!
+
